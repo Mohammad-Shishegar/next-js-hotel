@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# final app
+/final
+
 # testing
 /coverage
 
